@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "collections": {
+    "ghid": {
+      "fields": {
+        "title": {
+          "type": "string"
+        },
+        "order": {
+          "type": "number"
+        },
+        "body": {
+          "type": "rich-text"
+        }
+      }
+    },
+    "guvernanta": {
+      "fields": {
+        "title": {
+          "type": "string"
+        },
+        "body": {
+          "type": "rich-text"
+        }
+      }
+    }
+  }
+}
